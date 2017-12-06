@@ -2,7 +2,7 @@ Package.describe({
   name         : 'copypants:smugmug-oauth',
   version      : '0.0.1',
   summary      : 'Login service for smugmug accounts',
-  git          : '',
+  git          : 'https://github.com/Copypants/meteor-smugmug-oauth',
   documentation: 'README.md'
 });
 
